@@ -1,3 +1,3 @@
 # Request Header Parser Microservice
 
-Request Header Parser Micro-service project for FCC Back-end Certification.
+Parses client information for the incoming request header.
